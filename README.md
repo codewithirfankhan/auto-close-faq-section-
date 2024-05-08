@@ -1,1 +1,1 @@
-# auto-close-faq-section-
+# AUTO CLOSE CUSTOM FAQ SECTION
